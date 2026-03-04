@@ -1,0 +1,10 @@
+section {
+    color: rgb(9, 78, 255);
+}
+h1 {
+    font-size: 50px;
+}
+p {
+    background-color: blueviolet;
+    padding:25px;
+}

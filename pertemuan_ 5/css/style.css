@@ -1,0 +1,35 @@
+/* selertor uni9versal */
+*{
+    margin:  0;
+    padding: 0;
+}
+
+
+/* selektor elemen */
+
+body {
+    background-color: rgb(25, 253, 0);
+    background-color: rgb(149, 255, 0);
+    color: rgb(0, 0, 0);
+}
+
+/* selertor class */
+
+.text-center {
+    text-align: centet;
+    margin-top: 25px;
+}
+
+.text-center{
+    text-align: center;
+    margin-top: 25px;
+}
+
+/* selektor ID */
+
+#gidhub {
+    background-color: aqua;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 20px;
+}
